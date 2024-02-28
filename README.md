@@ -177,7 +177,7 @@ int main(int argc, char **argv)
 
 ## OUTPUT:
 
-![](s1.png)
+![](https://github.com/AshwinRaaj/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/raw/main/s1.png)
 
 ## RESULT:
 
